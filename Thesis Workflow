@@ -1,0 +1,38 @@
+**Thesis Progress: Quantitative and Computational Biosciences**
+
+Biological Problem Understanding
+- Gained a deep understanding of the biological system and the molecular mechanisms involved.
+- Defined the core scientific questions and the objectives the model needs to address.
+
+Data Analysis and Pre-processing:
+- Explored the available datasets to identify key trends, noise levels, and sequence-specific features.
+- Assessed data quality to inform the selection of appropriate modeling techniques.
+
+Mathematical Foundations and Existing Models
+- Reviewed state-of-the-art models and existing literature in the field.
+- Analyzed the formal mathematics (differential equations and chemical kinetics) required to describe the system's dynamics.
+
+Model Development and Iteration 
+- Prototyping: Built the initial models and established the simulation environment.
+- Biological Constraints: Refined the models by integrating biological assumptions 
+- Linear framework derived Simulations: Performed parameter sampling (log-uniform) to observe steady-state trends across different regimes.
+
+
+--- work in progress ---
+
+Sensitivity Analysis 
+- Investigated how variations in input parameters (such as the multiplication constant) affect the model's output.
+- Identified robust vs. sensitive components of the system, specifically analyzing why certain variables (like $p_3$) remain invariant under specific conditions.
+
+Validation and Fitting
+- Developed a robust fitting pipeline to calibrate model parameters against experimental data.
+- Critically evaluated the discrepancies between simulated results and real-world observations to improve model accuracy.
+
+Interpretation and New Hypotheses
+- Formulated the multi-state hypothesis to explain complex behaviors that simpler models failed to capture.
+- Prepared a framework for "new predictions," moving from descriptive modeling to explanatory insights.
+
+Thesis writing - reviewing
+- Defining the thesis constraint and required structure
+- Define the chapter order and material
+- Write and Review the process
